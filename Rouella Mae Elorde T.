@@ -1,1 +1,10 @@
-index.html
+<!DOCTYPE html>
+ <html>
+      <head>
+      <title> Hello ma'am</title>
+    </head>
+   <body>
+   <h1 style="color: yellow">HELLO WORLD!</h1>
+   <p. style="Background-color: HSLA(20, 80%, 80%, 0.5);">This is a paragraph </p>
+    </head>
+  </html>
