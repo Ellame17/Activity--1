@@ -1,10 +1,14 @@
 <!DOCTYPE html>
  <html>
       <head>
-      <title> Hello ma'am</title>
+      <title> Activity-1</title>
     </head>
    <body>
-   <h1 style="color: yellow">HELLO WORLD!</h1>
-   <p. style="Background-color: HSLA(20, 80%, 80%, 0.5);">This is a paragraph </p>
+   <h1 style="color: yellow">ABOUT ME!</h1>
+   <p. style="Background-color: HSLA(20, 80%, 80%, 0.5);">Hello im Rouella Mae Elorde T.</p>
+   <p. style="Background-color: HSLA(20, 80%, 80%, 0.5);">BSIS-3A</p>
+   <p. style="Background-color: HSLA(20, 80%, 80%, 0.5);">26 yrs old</p>
+   <p. style="Background-color: HSLA(40, 100%,60%, 1.5);">I like watching movies and listening music.</p>
+   
     </head>
   </html>
